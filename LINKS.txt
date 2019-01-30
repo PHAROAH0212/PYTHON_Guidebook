@@ -1,7 +1,7 @@
 Reference for NUMPY/SCIPY
 http://docs.scipy.org/doc/numpy/reference/
 
-Reference for PANDAS
+USERGUIDE for PANDAS
 https://pandas.pydata.org/pandas-docs/stable/
 
 Reference for automatetheboringstuff
